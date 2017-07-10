@@ -1,0 +1,6 @@
+
+HELP_COMMANDS: = " /help - commands list \n /weather_current - waether forecast \n /mem - memos /n"
+WEATHER_INSTRACTION: = 'Input city'
+
+CONTENT_MESSAGE: = 'shit happens'.freeze
+WRONG_INPUT: = "don't send me anything"
