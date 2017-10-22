@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'open_weather'
+gem 'telegram-bot-ruby'
+gem 'json'
+gem 'pry'
+gem 'dotenv'
